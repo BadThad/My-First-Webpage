@@ -1,0 +1,13 @@
+body {
+    background-color: beige;
+}
+
+#winston1 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+#section-1 {
+    background-color: rgb(208, 205, 183);
+}
